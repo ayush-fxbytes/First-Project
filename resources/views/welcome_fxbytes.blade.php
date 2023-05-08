@@ -9,7 +9,7 @@
 <body>
     <div class="div">
         <h2 class="welcome">Welcome To Fxbytes Technologies Pvt Ldt</h2>
-        <h3>Fxbytes is IT Software Company</h3>
+        <h3>Fxbytes is IT consulting and Software Company</h3>
     </div>
 </body>
 </html>
