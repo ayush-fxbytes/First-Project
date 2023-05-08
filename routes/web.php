@@ -18,4 +18,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('welcome', [WelcomeController::class, 'welcome']);
+Route::get('/', function () {
+    return view('welcome_fxbytes');
+});
+
+// Route::get('welcome', [WelcomeController::class, 'welcome']);
